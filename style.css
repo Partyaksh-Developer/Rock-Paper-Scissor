@@ -53,6 +53,7 @@ h1 button {
   bottom: 0;
   cursor: pointer;
   background-color: #0c509eff;
+  font-size: 1.6rem;
   border-radius: 1rem;
 }
 
